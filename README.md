@@ -9,7 +9,7 @@
 
 <p align="center">
 <img 
-    src="https://github.com/vvalcristina/prompts-create-ebook-ia/blob/main/assets/banner_delta_lake.png"
+    src="https://github.com/vvalcristina/prompts-create-article-ia/blob/main/assets/capa_artigo_dio.png"
     width="400"  
 />
 </p>
