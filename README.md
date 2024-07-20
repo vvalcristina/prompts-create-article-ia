@@ -39,7 +39,7 @@ ChatGPT：
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto PySpark - Melhorias de performance                                                                                                        |
 | conteúdo | Comporte-se como um escritor de artigos tech de dados e escreva o artigo atendendo as regras abaixo <br>{REGRAS}<br> > Os blocos não devem ser muito extensos. Devem ser simples e diretos.<br> > Me explique de maneira informal, como se eu fosse uma criança de 10 anos.<br> > Os blocos que serão criados estão abaixo:<br> - Quais principais problemas de performance no pyspark<br> - Dê dicas de como melhoras esses problemas<br> - Cite exemplos e demonstre de forma pratica no código<br> - Faça um call to action para minhas redes sociais<br> - Coloques 3 hastags que façam sentido |
 
-Lexica: 
+Lexica Art: 
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
@@ -48,7 +48,7 @@ Lexica:
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via Lecxica
+- Imagens geradas via Lexica Art
 
 ## 📚 Materiais
 
